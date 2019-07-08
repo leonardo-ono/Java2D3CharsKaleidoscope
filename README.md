@@ -25,8 +25,6 @@ click the image above to see the video
 
 ![screenshot1](https://raw.githubusercontent.com/leonardo-ono/Java2D3CharsKaleidoscope/master/screenshot/screenshot1.png)
 
-![screenshot2](https://raw.githubusercontent.com/leonardo-ono/Java2D3CharsKaleidoscope/master/screenshot/screenshot2.png)
-
 ![screenshot3](https://raw.githubusercontent.com/leonardo-ono/Java2D3CharsKaleidoscope/master/screenshot/screenshot3.png)
 
 ![screenshot4](https://raw.githubusercontent.com/leonardo-ono/Java2D3CharsKaleidoscope/master/screenshot/screenshot4.png)
